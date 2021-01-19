@@ -1,0 +1,52 @@
+h1{
+  color: blueviolet;
+  font-size: 40px;
+  font-style: italic;
+  text-align-last: center;
+}
+
+
+/*this is a single line comment*/
+
+
+/*this comment 
+takes up 
+multiple wors*/
+
+
+#Bestfood {
+  color: brown;
+}
+#Best-food {
+       color: darkblue;
+      }
+
+      .contact-info {
+             color: darkmagenta;
+      }
+
+body {
+    background-image:url(../Images/food.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 200vh;
+}
+ 
+
+ h2 {
+   color: floralwhite;
+
+ }
+
+ p {
+   color: blue;
+ }
+ h4 {
+   color: chocolate;
+   text-align-last: center;
+   font-size: large;
+
+   img {
+     min-width: position: clear: align-items: align-items: ;;;;
+   }
